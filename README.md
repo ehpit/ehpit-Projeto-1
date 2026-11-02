@@ -39,7 +39,7 @@ Se você já apoiou o projeto, deixamos aqui nosso sincero agradecimento. Sua co
 
 Se deseja contribuir, disponibilizamos nossa Caixinha de doações:
 
-**[CLIQUE AQUI PARA APOIAR O PROJETO](COLOQUE_AQUI_O_LINK_DA_CAIXINHA)**
+**[CLIQUE AQUI PARA APOIAR O PROJETO](https://widget.livepix.gg/embed/ae59f996-6e19-4030-982b-fec5f47f3f79)**
 
 Toda contribuição é espontânea, sem valor mínimo e sem qualquer obrigação.
 
