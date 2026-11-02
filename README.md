@@ -8,7 +8,9 @@
 
 Este projeto independente tem como objetivo organizar e apresentar aplicações, ferramentas, utilitários e iniciativas relacionadas ao desenvolvimento de software e tecnologia.
 
-A proposta é incentivar o aprendizado, a colaboração, a pesquisa e o compartilhamento de conhecimento, oferecendo uma estrutura simples e organizada para a comunidade.
+Nossa proposta é incentivar o aprendizado, a colaboração, a pesquisa e o compartilhamento de conhecimento, oferecendo uma estrutura simples e organizada para toda a comunidade.
+
+Acreditamos que a tecnologia deve aproximar pessoas, facilitar o acesso ao conhecimento e incentivar novas ideias.
 
 ## Recursos
 
@@ -33,33 +35,70 @@ A proposta é incentivar o aprendizado, a colaboração, a pesquisa e o comparti
 
 ---
 
-## Apoie o Projeto
+## Apoie o Projeto e Faça Parte Dessa Conquista!
 
-Este projeto foi criado com o objetivo de permanecer gratuito, sem mensalidades ou taxas de utilização.
+Este projeto nasceu com o propósito de oferecer uma plataforma gratuita para todos, sem mensalidades, cobranças obrigatórias ou qualquer tipo de exigência financeira.
 
-Para continuar crescendo, melhorar a infraestrutura, ampliar os recursos e manter os custos de hospedagem, contamos com o apoio voluntário da comunidade.
+E já temos uma grande conquista para comemorar!
 
-### Faça sua contribuição
+**Nossa primeira meta de 10 TB (terabytes) de downloads já foi alcançada!**
 
-Se você deseja ajudar a manter e desenvolver este projeto, qualquer contribuição será muito bem-vinda.
+Essa conquista só foi possível graças aos doadores, apoiadores e a todos que acreditaram no projeto e contribuíram para tornar isso realidade.
 
-**[CLIQUE AQUI PARA APOIAR O PROJETO PELA LIVEPIX](https://widget.livepix.gg/embed/1775f7f4-3fe4-404e-94c9-d22b894afe70)**
+Cada contribuição foi importante para ajudar a viabilizar a infraestrutura inicial. A todos que participaram dessa conquista, deixamos nosso sincero agradecimento. Vocês fazem parte dessa história!
 
-### Histórico de contribuições
+### Nossa próxima meta: 100 TB de downloads!
 
-A transparência e o reconhecimento da comunidade são importantes para nós.
+Agora queremos dar um passo ainda maior. Nosso objetivo é alcançar os 100 TB de capacidade de downloads, melhorar nossa infraestrutura, ampliar os recursos e continuar fazendo o projeto evoluir para beneficiar toda a comunidade.
 
-**[CLIQUE AQUI PARA CONFERIR AS CONTRIBUIÇÕES RECEBIDAS](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)**
+### Como pequenas contribuições podem fazer a diferença?
 
-### Nosso agradecimento
+Acreditamos que o crescimento de um projeto comunitário não depende de grandes doações individuais, mas da união de pessoas que acreditam na mesma iniciativa.
 
-Nosso sincero agradecimento a todos que já contribuíram e acreditaram nesta iniciativa.
+Para ilustrar, imagine o seguinte cenário:
 
-Cada contribuição ajuda na continuidade do desenvolvimento e na manutenção da infraestrutura.
+- 100 pessoas contribuindo com R$ 1,00 por mês.
+- R$ 100,00 arrecadados mensalmente.
+- R$ 1.200,00 ao longo de 12 meses.
 
-Toda doação é voluntária, sem valor mínimo e sem qualquer obrigação.
+Esse é apenas um exemplo hipotético de colaboração coletiva. Cada contribuição é voluntária, sem valor mínimo e sem compromisso mensal.
 
-O acesso ao projeto continuará gratuito, independentemente de qualquer contribuição.
+Se cada pessoa puder ajudar dentro de suas possibilidades, juntos poderemos fortalecer a infraestrutura, contribuir com os custos dos servidores e trabalhar para alcançar nossa próxima meta de 100 TB de downloads.
+
+**Pequenas contribuições podem gerar grandes conquistas quando todos caminham juntos!**
+
+### Como você pode ajudar?
+
+Toda contribuição é totalmente voluntária. Não existe valor mínimo, mensalidade ou obrigação de doar. Cada pessoa ajuda se puder e quando quiser.
+
+**Faça sua contribuição:**
+
+[CLIQUE AQUI PARA APOIAR O PROJETO PELA LIVEPIX](https://widget.livepix.gg/embed/ae59f996-6e19-4030-982b-fec5f47f3f79)
+
+**Acompanhe nossa Caixinha:**
+
+[CLIQUE AQUI PARA VER A ARRECADAÇÃO ATUAL](https://widget.livepix.gg/embed/1775f7f4-3fe4-404e-94c9-d22b894afe70)
+
+**Conheça nossos apoiadores e doadores:**
+
+[CLIQUE AQUI PARA CONFERIR OS APOIADORES](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)
+
+### Nosso compromisso com a comunidade
+
+- Manter o projeto gratuito.
+- Não cobrar mensalidades.
+- Não exigir doações para utilizar a plataforma.
+- Buscar melhorias constantes na infraestrutura.
+- Trabalhar para ampliar a capacidade de downloads.
+- Valorizar e agradecer a todos que participam dessa iniciativa.
+
+Se você puder contribuir financeiramente, agradecemos de coração. Se não puder, compartilhar o projeto, divulgar e participar da comunidade também é uma grande ajuda.
+
+**Nossa meta é crescer juntos, ajudar uns aos outros e construir algo cada vez melhor para todos!**
+
+Aos que ajudaram a tornar os primeiros 10 TB possíveis, nosso muito obrigado!
+
+**Agora vamos juntos em busca dos 100 TB!**
 
 ---
 
@@ -79,4 +118,26 @@ Os conteúdos disponibilizados devem respeitar as respectivas licenças, autoriz
 
 ## Solicitações e Direitos Autorais
 
-Respeitamos os direitos autorais e
+Respeitamos os direitos autorais e a propriedade intelectual.
+
+Caso algum titular de direitos identifique conteúdo que possa infringir seus direitos, poderá entrar em contato com os responsáveis pelo projeto para solicitar uma análise.
+
+As solicitações legítimas serão avaliadas e, quando necessário, o conteúdo será removido.
+
+## Aviso Legal
+
+Este é um projeto independente, sem vínculo oficial, parceria ou patrocínio de fabricantes ou empresas de tecnologia.
+
+O uso dos softwares e materiais disponibilizados deve respeitar as leis aplicáveis e as licenças de seus respectivos autores.
+
+## Contribuições
+
+Sugestões, melhorias, documentação e colaborações são bem-vindas.
+
+Acreditamos que a colaboração e o compartilhamento de conhecimento são fundamentais para o desenvolvimento tecnológico.
+
+---
+
+**Projeto independente de tecnologia, desenvolvimento e colaboração comunitária.**
+
+**Obrigado a todos que apoiam e fazem parte dessa iniciativa!**
