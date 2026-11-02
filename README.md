@@ -1,6 +1,8 @@
 # Projeto de Desenvolvimento Independente
 
-**Ferramentas, aplicações e projetos desenvolvidos pela comunidade.**
+**Tecnologia, ferramentas, aplicações e projetos desenvolvidos pela comunidade.**
+
+---
 
 ## Sobre o Projeto
 
@@ -29,21 +31,37 @@ A proposta é incentivar o aprendizado, a colaboração, a pesquisa e o comparti
 - Compatibilidade e experimentação
 - Tutoriais e documentação
 
+---
+
 ## Apoie o Projeto
 
-Este projeto foi criado com o objetivo de permanecer gratuito e sem cobrança de mensalidades.
+Este projeto foi criado com o objetivo de permanecer gratuito, sem mensalidades ou taxas de utilização.
 
 Para continuar crescendo, melhorar a infraestrutura, ampliar os recursos e manter os custos de hospedagem, contamos com o apoio voluntário da comunidade.
 
-Se você já apoiou o projeto, deixamos aqui nosso sincero agradecimento. Sua contribuição é muito importante para a continuidade desta iniciativa.
+### Faça sua contribuição
 
-Se deseja contribuir, disponibilizamos nossa Caixinha de doações:
+Se você deseja ajudar a manter e desenvolver este projeto, qualquer contribuição será muito bem-vinda.
 
-**[CLIQUE AQUI PARA APOIAR O PROJETO](https://widget.livepix.gg/embed/ae59f996-6e19-4030-982b-fec5f47f3f79)**
+**[CLIQUE AQUI PARA APOIAR O PROJETO PELA LIVEPIX](https://widget.livepix.gg/embed/1775f7f4-3fe4-404e-94c9-d22b894afe70)**
 
-Toda contribuição é espontânea, sem valor mínimo e sem qualquer obrigação.
+### Histórico de contribuições
 
-O acesso ao projeto não depende de doações. Nosso compromisso é continuar oferecendo uma experiência gratuita para todos.
+A transparência e o reconhecimento da comunidade são importantes para nós.
+
+**[CLIQUE AQUI PARA CONFERIR AS CONTRIBUIÇÕES RECEBIDAS](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)**
+
+### Nosso agradecimento
+
+Nosso sincero agradecimento a todos que já contribuíram e acreditaram nesta iniciativa.
+
+Cada contribuição ajuda na continuidade do desenvolvimento e na manutenção da infraestrutura.
+
+Toda doação é voluntária, sem valor mínimo e sem qualquer obrigação.
+
+O acesso ao projeto continuará gratuito, independentemente de qualquer contribuição.
+
+---
 
 ## Créditos e Colaborações
 
@@ -61,26 +79,4 @@ Os conteúdos disponibilizados devem respeitar as respectivas licenças, autoriz
 
 ## Solicitações e Direitos Autorais
 
-Respeitamos os direitos autorais e a propriedade intelectual.
-
-Caso algum titular de direitos identifique conteúdo que possa infringir seus direitos, poderá entrar em contato com os responsáveis pelo projeto para solicitar uma análise.
-
-As solicitações legítimas serão avaliadas e, quando necessário, o conteúdo será removido.
-
-## Aviso Legal
-
-Este é um projeto independente, sem vínculo oficial, parceria ou patrocínio de fabricantes ou empresas de tecnologia.
-
-O uso dos softwares e materiais disponibilizados deve respeitar as leis aplicáveis e as licenças de seus respectivos autores.
-
-## Contribuições
-
-Sugestões, melhorias, documentação e colaborações são bem-vindas.
-
-Acreditamos que a colaboração e o compartilhamento de conhecimento são fundamentais para o desenvolvimento tecnológico.
-
----
-
-**Projeto independente de tecnologia, desenvolvimento e colaboração comunitária.**
-
-Obrigado por fazer parte dessa iniciativa!
+Respeitamos os direitos autorais e
