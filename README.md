@@ -59,7 +59,7 @@ Para ilustrar, imagine o seguinte cenário:
 
 - 100 pessoas contribuindo com R$ 1,00 por mês.
 - R$ 100,00 arrecadados mensalmente.
-- R$ 1.200,00 ao longo de 12 meses.
+- O suficiente para pagar o Servidor
 
 Esse é apenas um exemplo hipotético de colaboração coletiva. Cada contribuição é voluntária, sem valor mínimo e sem compromisso mensal.
 
@@ -82,6 +82,10 @@ Toda contribuição é totalmente voluntária. Não existe valor mínimo, mensal
 **Conheça nossos apoiadores e doadores:**
 
 [CLIQUE AQUI PARA CONFERIR OS APOIADORES](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)
+
+**Conheça a CHANGELOG:**
+
+https://docs.google.com/spreadsheets/d/1LsxIUH2ZB9O0_N0Ma1kyfQsumxHxjuhFua17QxmlmMM/edit?usp=drive_link
 
 ### Nosso compromisso com a comunidade
 
