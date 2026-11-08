@@ -1,3 +1,6 @@
+------------
+EHPIT V 1.O0
+------------
 # Projeto de Desenvolvimento Independente
 
 **Tecnologia, ferramentas, aplicações e projetos desenvolvidos pela comunidade.**
@@ -145,3 +148,125 @@ Acreditamos que a colaboração e o compartilhamento de conhecimento são fundam
 **Projeto independente de tecnologia, desenvolvimento e colaboração comunitária.**
 
 **Obrigado a todos que apoiam e fazem parte dessa iniciativa!**
+
+
+
+-----------
+EHPIT V 1.O1
+-----------
+
+
+
+# 🚀 EHPIT VERSÃO 1.01
+
+LANÇAMENTO DA VERSÃO 1.01
+
+Uma nova etapa no desenvolvimento da EHPIT! A versão 1.01 chega com uma grande atualização visual, novas funcionalidades e melhorias na experiência de utilização.
+
+Nosso objetivo é oferecer organização, intuitiva e completa para a comunidade.
+
+## 🎮 PRINCIPAIS NOVIDADES DA VERSÃO 1.01
+
+INSERIDO IDIOMA ESPAHOL AGORA TEMOS 3 IDIOMAS BR, INGLE E ESPANHOL
+
+### 🖥️ Nova interface
+- Nova interface com capa grande do conteudo selecionado à esquerda.
+- Lista de conteudo com informações detalhadas.
+- Visual inspirado em sistemas modernos de organização de conteudo, como o Batocera.
+- Melhor aproveitamento do espaço da tela.
+- Navegação mais organizada e intuitiva.
+
+### ⭐ Sistema de favoritos
+- Possibilidade de favoritar qualquer conteudo
+- Armazenamento local dos favoritos.
+- Categoria exclusiva para acessar os conteudos favoritos.
+
+### 📂 Categorias organizadas
+- Organização por plataformas e tipos de conteúdo.
+- Categorias para facilitar a localização dos conteudos.
+- Organização de BASEGAME, UPDATE, BACKPORT, DLC e FIX associados ao conteudo.
+- Identificação do BASEGAME como conteúdo principal.
+
+### 🔎 Busca global aprimorada
+- Pesquisa global em todo o catálogo.
+- Busca pelo título dos conteudos.
+- Resultados independentes da categoria selecionada.
+- Interface de pesquisa mais limpa e organizada.
+
+### 📖 Informações detalhadas dos conteudos
+- Descrições maiores.
+- Informações adicionais sobre cada conteudo.
+- Exibição de gêneros quando disponíveis.
+- Informações sobre o tamanho dos conteúdos.
+
+### 📊 Estatísticas e acompanhamento de downloads
+- Velocidade de transferência.
+- Quantidade de MB baixados.
+- Porcentagem de conclusão.
+- Tempo restante estimado.
+- Quantidade total transferida.
+- Indicadores de progresso.
+- Contagem de downloads dos pacotes.
+
+### 🌐 Estatísticas online da infraestrutura
+- Contador de usuários online.
+- Informações de armazenamento do servidor.
+- Informações de transferência.
+- Quantidade de arquivos.
+- Indicador de Ping.
+- Melhor apresentação visual das estatísticas.
+
+### 📦 Downloads e instalação
+- Arquivos de instalaçao identificados pelo nome original do conteúdo.
+- Substituição dos antigos nomes genéricos EHPIT01, EHPIT02 e semelhantes.
+- Instalação automática após a conclusão do download.
+
+### 💬 Chat integrado
+- Sistema de comunicação dentro da loja.
+- Exibição de até 9 mensagens simultaneamente.
+- Campos para apelido e mensagem.
+- Envio de mensagens.
+- Indicadores de status.
+- Mini tutorial com comandos.
+- Bloqueio de envio durante downloads de PKG.
+- Melhor organização visual do painel.
+
+### 🎨 Melhorias gerais
+- Estatísticas com texto branco e destaque laranja.
+- Ajustes de posicionamento dos elementos do Menu 3.
+- Melhor aproveitamento dos painéis do chat.
+- Interface de pesquisa sem diagnósticos técnicos.
+- Melhor legibilidade das informações.
+- Ajustes gerais de organização visual.
+
+---
+
+**Faça sua contribuição e nos ajude a crescer:**
+
+[CLIQUE AQUI PARA APOIAR O PROJETO PELA LIVEPIX](https://widget.livepix.gg/embed/ae59f996-6e19-4030-982b-fec5f47f3f79)
+
+**Acompanhe nossa Caixinha:**
+
+[CLIQUE AQUI PARA VER A ARRECADAÇÃO ATUAL](https://widget.livepix.gg/embed/1775f7f4-3fe4-404e-94c9-d22b894afe70)
+
+**Conheça nossos apoiadores e doadores:**
+
+[CLIQUE AQUI PARA CONFERIR OS APOIADORES](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)
+
+**Conheça a CHANGELOG:**
+
+https://docs.google.com/spreadsheets/d/1LsxIUH2ZB9O0_N0Ma1kyfQsumxHxjuhFua17QxmlmMM/edit?usp=drive_link
+
+## 🧡 NOSSO AGRADECIMENTO
+
+A versão 1.01 representa mais um passo importante na evolução da EHPIT.
+
+Cada melhoria foi pensada para tornar a experiência mais organizada, funcional e agradável.
+
+Agradecemos a todos que acompanham o projeto, participam da comunidade, enviam sugestões e contribuem voluntariamente para que ele continue evoluindo.
+
+**EHPIT — VERSÃO 1.01**
+
+**Desenvolvido por EHP INFOTEC**
+
+*Projeto independente, gratuito e em constante evolução.*
