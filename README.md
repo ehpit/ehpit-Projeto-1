@@ -270,3 +270,98 @@ Agradecemos a todos que acompanham o projeto, participam da comunidade, enviam s
 **Desenvolvido por EHP INFOTEC**
 
 *Projeto independente, gratuito e em constante evolução.*
+
+# 🧡 EHPIT PS4 — VERSAO 1.0.2
+
+### APLICATIVO COMUNITARIO PARA PLAYSTATION 4
+
+**Desenvolvido por EHP INFOTEC — Informacao e Tecnologia**
+
+## SOBRE O PROJETO
+
+O EHPIT PS4 e um projeto independente desenvolvido para a comunidade PlayStation 4, com foco em organizacao de conteudos, gerenciamento de arquivos, ferramentas adicionais e facilidade de utilizacao.
+
+
+
+-----------
+EHPIT V 1.O2
+-----------
+
+
+
+## 🚀 VERSAO 1.0.2 — NOVIDADES E MELHORIAS
+
+### CATALOGO E ORGANIZACAO
+- Reestruturacao do gerenciamento interno.
+- Capacidade ampliada para ate 10.000 itens.
+- Busca global e organizacao por categorias.
+- Sistema de favoritos e filtros por generos.
+
+### GERENCIAMENTO DE ARQUIVOS
+- Nova aba ARQUIVOS.
+- Suporte ao download de diferentes tipos de arquivos.
+- Preservacao dos nomes e extensoes originais.
+- Organizacao dos arquivos no armazenamento do PS4.
+
+### FERRAMENTAS E UTILIDADES
+- Testador de controle.
+- Teclado musical com piano virtual.
+- Verificador de atualizacoes integrado ao GitHub.
+- Recurso de reproducao de audio.
+
+### INFORMATIVO
+- Nova area de comunicados.
+- Agradecimentos aos apoiadores.
+- Historico dos ultimos conteudos adicionados.
+
+### COMUNICACAO E INTERFACE
+- Melhorias no sistema de CHAT.
+- Ajustes no alinhamento dos textos.
+- Melhorias na organizacao visual.
+- Correcoes e aprimoramentos gerais.
+
+## INFORMACOES DO PROJETO
+
+- Versao atual: 1.0.2
+- Situacao: BETA — atualmente estavel.
+- Lancamento do servidor: 01/11/2026.
+- Desenvolvimento independente.
+- Projeto gratuito para a comunidade.
+
+## 🧡 APOIE O DESENVOLVIMENTO
+
+As contribuicoes voluntarias ajudam a custear hospedagem, servidores, manutencao e futuras melhorias.
+
+**CONTRIBUA COM O PROJETO:**
+
+[APOIAR PELA LIVEPIX](https://widget.livepix.gg/embed/ae59f996-6e19-4030-982b-fec5f47f3f79)
+
+**ACOMPANHE NOSSA ARRECADACAO:**
+
+[VER ARRECADACAO ATUAL](https://widget.livepix.gg/embed/1775f7f4-3fe4-404e-94c9-d22b894afe70)
+
+**CONHECA NOSSOS APOIADORES:**
+
+[VER APOIADORES E DOADORES](https://widget.livepix.gg/embed/23851aa0-3f88-495e-b166-75891f52d067)
+
+## HISTORICO DE VERSOES
+
+[CONSULTAR CHANGELOG COMPLETO](https://docs.google.com/spreadsheets/d/1LsxIUH2ZB9O0_N0Ma1kyfQsumxHxjuhFua17QxmlmMM/edit?usp=drive_link)
+
+## AGRADECIMENTOS
+
+Agradecemos a todos que utilizam, divulgam, apoiam e contribuem com sugestoes para a evolucao do projeto.
+
+Mais de 100 horas de dedicacao foram investidas no desenvolvimento e aprimoramento deste aplicativo.
+
+**ACOMPANHE NOSSO GRUPO:**
+
+https://t.me/lojaps4ehpit
+
+---
+
+# 🧡 EHPIT PS4 — UM PROJETO INDEPENDENTE EM CONSTANTE EVOLUCAO.
+
+**EHP INFOTEC — INFORMACAO E TECNOLOGIA**
+
+**BRASIL**
